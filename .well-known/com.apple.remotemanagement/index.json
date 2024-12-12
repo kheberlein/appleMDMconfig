@@ -1,6 +1,6 @@
 {
 "Servers": [{
 "Version": "mdm-adde",
-"BaseURL": "https://cjtgymlauf.jamfcloud.com/servicediscoveryenrollment/v1/deviceenroll"
+"BaseURL": "https://cjtgymlauf.jamfcloud.com/enroll"
 }]
 }
