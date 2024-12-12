@@ -1,6 +1,6 @@
 {
 "Servers": [{
-"Version": "mdm-byod",
-"BaseURL": "https://cjtgymlauf.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
+"Version": "mdm-adde",
+"BaseURL": "https://cjtgymlauf.jamfcloud.com/servicediscoveryenrollment/v1/deviceenroll"
 }]
 }
