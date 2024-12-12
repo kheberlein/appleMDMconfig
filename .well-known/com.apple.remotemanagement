@@ -1,6 +1,8 @@
+```json
 {
 "Servers": [{
 "Version": "mdm-byod",
 "BaseURL": "https://cjtgymlauf.jamfcloud.com/enroll"
 }]
 }
+```
