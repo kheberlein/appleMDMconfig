@@ -1,6 +1,6 @@
 {
 "Servers": [{
-"Version": "mdm-adde",
+"Version": "mdm-byod",
 "BaseURL": "https://cjtgymlauf.jamfcloud.com/enroll"
 }]
 }
